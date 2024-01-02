@@ -1,0 +1,4 @@
+install package
+
+pnpm add react-scroll
+pnpm i --save-dev @types/react-scroll
